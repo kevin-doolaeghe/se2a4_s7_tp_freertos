@@ -1,1 +1,3 @@
-# tp_freertos_se2a4_s7
+# Polytech SE2A4 Semestre 7 - TP Temps Réel
+
+## FreeRTOS
