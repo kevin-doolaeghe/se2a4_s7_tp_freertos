@@ -1,3 +1,5 @@
 # Polytech SE2A4 Semestre 7 - TP Temps Réel
 
-### Pilotage d'une plaquette à l'aide d'un microcontrôleur AVR sous FreeRTOS
+## Objectifs
+
+Pilotage d'une plaquette à l'aide d'un microcontrôleur AVR sous FreeRTOS
