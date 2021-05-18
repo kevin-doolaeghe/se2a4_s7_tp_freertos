@@ -1,4 +1,4 @@
-# Polytech SE2A4 Semestre 7 - TP Temps Réel
+# Polytech SE2A4 | Semestre 7 - TP Temps Réel
 
 ## Objectifs
 
